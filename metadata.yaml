@@ -1,0 +1,32 @@
+_repo: The-Bad-Family--amp--Other-Stories_29360
+_version: 0.1.0
+alternative_title: The Bad Family and Other Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenwick, E. (Eliza)
+    alias: Fenwick, Eliza
+    birthdate: 1766
+    deathdate: 1840
+    gutenberg_agent_id: '33870'
+    url: http://www.gutenberg.org/2009/agents/33870
+description: ''
+gutenberg_issued: '2009-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: Introduction -- The Bad family -- The Good family -- Foolish fears
+  -- The broken crutch -- The journal, or, Birthday gifts -- The basket of plumbs
+  -- The choice of friends -- Cousin James and Cousin Thomas -- The disasters of impatience
+  -- The deaf and dumb boy -- Limby Lumpy -- The oyster patties.
+title: The Bad Family & Other Stories
+url: http://www.gutenberg.org/ebooks/29360
